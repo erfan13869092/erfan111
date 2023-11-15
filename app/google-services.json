@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "552412979875",
+    "project_id": "first-tutoreial1",
+    "storage_bucket": "first-tutoreial1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552412979875:android:8f56f14ae3e24e390e5516",
+        "android_client_info": {
+          "package_name": "com.example.myerfan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH2Do9H9c5q7puiS8VV_UnNKfnbBy8KNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
